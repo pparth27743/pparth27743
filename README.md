@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h2>I'm Parth Patel.</h2>
-<h4>I am a Software developer and Machine Lerning enthusiastic. <br>I love to code and am keen to do research on upcoming new technologies.</h4>
+<h4>I am a Software developer and Machine Lerning enthusiastic.</h4>
 
 
 <!-- 
@@ -43,6 +43,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pparth27743&theme=buefy&layout=compact" />
 </a>
 
-<br/>
+
+<p align="center"> 
+<a href="https://twitter.com/pparth27743" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/pparth27743" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/parth-patel-553122139/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/parth-patel-553122139/" height="20" width="20" /></a>
+<a href="https://stackoverflow.com/users/13155827/pparth27743" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/13155827/pparth27743" height="20" width="20" /></a>
+<a href="https://www.instagram.com/pparth27743/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/pparth27743/" height="20" width="20" /></a>
+</p>
+
 
 
