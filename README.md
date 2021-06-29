@@ -14,6 +14,9 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) 
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular&logoColor=red) 
+  ![Cpp](https://img.shields.io/badge/-cpp-333333?style=flat&logo=cplusplus&logoColor=blue)
+  ![Python](https://img.shields.io/badge/-python-333333?style=flat&logo=python)
+  ![Java](https://img.shields.io/badge/-java-333333?style=flat&logo=java&logoColor=blue)
  
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
