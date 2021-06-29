@@ -79,11 +79,20 @@
 
 
 <p align="center"> 
+  
 <a href="https://twitter.com/pparth27743" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/pparth27743" height="20" width="20" /></a>
 <a href="https://www.linkedin.com/in/parth-patel-553122139/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/parth-patel-553122139/" height="20" width="20" /></a>
 <a href="https://stackoverflow.com/users/13155827/pparth27743" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/13155827/pparth27743" height="20" width="20" /></a>
 <a href="https://www.instagram.com/pparth27743/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/pparth27743/" height="20" width="20" /></a>
+<a href="https://leetcode.com/pparth27743/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="https://leetcode.com/pparth27743/" height="20" width="20" /></a>
+<a href="https://www.codechef.com/users/pparth27743" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg" alt="https://www.codechef.com/users/pparth27743" height="20" width="20" /></a>
+<a href="https://codeforces.com/profile/pparth27743" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="https://codeforces.com/profile/pparth27743" height="20" width="20" /></a>
+
 </p>
+
+
+
+
 
 
 
