@@ -2,9 +2,9 @@
 
 ### About Me
   
-- &nbsp; 👨🏻‍💻 I am a Full Stack developer, Machine Learning enthusiastic, and Competitive Programmer.
+- &nbsp; 👨🏻‍💻 I am a Full Stack developer, Machine Learning enthusiastic, and a Competitive Programmer.
 - &nbsp; 🎓 Pursuing Master in CSE at IIIT Banglore.
-- &nbsp; 🌱 Learning more about Data Structures and Algorithms, Systems Design and Machine Learning.
+- &nbsp; 🌱 Learning and exploring Data Structures & Algorithms and Systems Design.
 
 
 ### Tech Stack
